@@ -1,2 +1,4 @@
-# clean_architecture
-Flutter. A simple Clean Architecture example.
+# http_example
+
+A simple Clean Architecture example.
+
